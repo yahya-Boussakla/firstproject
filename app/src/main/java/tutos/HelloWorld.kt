@@ -1,4 +1,4 @@
-package com.example.firstproject
+package tutos
 
 fun main(){
     fun hello(){
